@@ -1,5 +1,5 @@
 
-<h1 align="inline-block"> Olá, eu sou a Mércia!   </h1>
+<h1 align="inline-block"> Oi, eu sou a Mércia!   </h1>
 
 
 🎓 Desenvolvedora **Back-end** em formação  
@@ -20,12 +20,6 @@ Acredito no poder do aprendizado constante e da evolução diária.
 </p>
 
 ---
-
-
-
-## 📊 Gráfico de atividade no GitHub
-
-[![Atividade de Mércia](https://github-readme-activity-graph.vercel.app/graph?username=MerciaMartins&theme=merko&hide_border=true&area=true&point=80ffdb&line=57f287&color=f8f8f2&bg_color=0d1117)](https://github.com/MerciaMartins)
 
 
 
